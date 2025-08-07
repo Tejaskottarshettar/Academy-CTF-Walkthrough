@@ -11,7 +11,7 @@ Gain root access by exploiting misconfigurations and weak credential management.
 - FTP misconfiguration exploitation
 - Credential hash cracking
 - File upload RCE (Remote Code Execution)
-- Linux privilege escalation via cron jobs
+- Linux privilege escalation
 - Secure shell usage & post-exploitation enumeration
 
 ## 📚 Tools Used
@@ -19,7 +19,6 @@ Gain root access by exploiting misconfigurations and weak credential management.
 - Nmap
 - FFUF
 - CrackStation
-- Burp Suite
 - Netcat
 - pspy
 - Linux command-line utilities
@@ -38,4 +37,4 @@ For full step-by-step commands and technical details, please refer to [`WALKTHRO
 ---
 
 > Walkthrough by Tejas Kottarshettar  
-> [LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/yourusername)
+> [LinkedIn](https://www.linkedin.com/in/tejas-kottar-shettar-35522722b) 
