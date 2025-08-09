@@ -37,4 +37,4 @@ For full step-by-step commands and technical details, please refer to [`WALKTHRO
 ---
 
 > Walkthrough by Tejas Kottarshettar  
-> [LinkedIn](https://www.linkedin.com/in/tejas-kottar-shettar-35522722b) 
+> [LinkedIn](https://www.linkedin.com/posts/tejas-kottar-shettar-35522722b_github-tejaskottarshettaracademy-ctf-walkthrough-activity-7359865927519129600-7wFt?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmFGzEBy1zNjhrNACY0ghMYZEVczfXbyU8) 
